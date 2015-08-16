@@ -4,7 +4,7 @@
   "description": "object reduce from the right for the browser and node.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nathanfaucett/objectReduceRight.git"
+    "url": "https://github.com/nathanfaucett/object-reduce_right.git"
   },
   "main": "src/index.js",
   "scripts": {
@@ -14,8 +14,8 @@
     "test-browser-local": "zuul --local 8080 --ui tape -- ./test"
   },
   "keywords": [
-    "objectReduceRight",
-    "objectReduceRight.js"
+    "object-reduce_right",
+    "object-reduce_right.js"
   ],
   "author": "Nathan Faucett",
   "license": "MIT",
