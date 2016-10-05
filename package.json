@@ -1,6 +1,6 @@
 {
   "name": "@nathanfaucett/object-reduce_right",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "object reduce from the right for the browser and node.js",
   "repository": {
     "type": "git",
@@ -29,7 +29,7 @@
     "zuul": "^3.0.0"
   },
   "dependencies": {
-    "@nathanfaucett/keys": "^0.0.1",
+    "@nathanfaucett/keys": "^0.0.2",
     "@nathanfaucett/is_undefined": "^0.0.1"
   }
 }
